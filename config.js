@@ -5,16 +5,16 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Knox",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/api/oauth2/authorize?client_id=1055297183689232454&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
       name: "Moderation",
       description:
-        "Moderation is the process of eliminating or lessening extremes.",
+        "Moderation is the top priority in a discord server. Welcome Knox! Knox makes moderation easier than ever! ",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
@@ -38,8 +38,8 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
+  serverCount: 100, //-  - Your
+  memberCount: 900, //--   - Bot
   executedCommand: 27000, //--  - Stats
   availableCommand: 400, //---   - Here
   //Do not change if you don't know about them
@@ -58,7 +58,7 @@ const config = {
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
+  discordLink: "https://discord.gg/knox",
   youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
 };
 
