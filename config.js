@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
-  twitterLink: "https://twitter.com",
-  mediumLink: "https://medium.com/",
-  facebookLink: "https://facebook.com",
+  githubLink: "",
+  twitterLink: "",
+  mediumLink: "",
+  facebookLink: "",
   discordLink: "https://discord.gg/knox",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  youtubeLink: "",
 };
 
 export default config;
